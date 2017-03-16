@@ -12,7 +12,7 @@ app.on('ready',() =>{
 	mainWindow.loadURL('https://pomodoro-tracker.com/')
 	
 	mainWindow.on('closed',() =>{
-			mainWindow = null;
+		app.quit();
 	});
 	
 });
