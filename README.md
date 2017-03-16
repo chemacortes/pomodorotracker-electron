@@ -1,2 +1,2 @@
 # pomodorotracker-electron
-Packing the PomodoroTracker webapp into a electron application
+Packing the [PomodoroTracker webapp](https://pomodoro-tracker.com/) into an electron application
